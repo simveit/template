@@ -12,7 +12,5 @@
         "tamasfe.even-better-toml",
         // Markdown
         "yzhang.markdown-all-in-one",
-        // Copilot
-        "GitHub.copilot"
     ]
 }
