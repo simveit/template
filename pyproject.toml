@@ -2,7 +2,7 @@
 name = "research-template"
 version = "0.1.0"
 description = "Add a short description here"
-authors = [{ name = "Simon V", }]
+authors = [{ name = "Simon V"}]
 dependencies = [
     "jax[tpu]==0.4.33",
     "libtpu-nightly",
